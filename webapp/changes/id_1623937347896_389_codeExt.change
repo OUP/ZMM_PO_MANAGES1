@@ -1,0 +1,40 @@
+{
+	"fileName": "id_1623937347896_389_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "",
+	"reference": "customer.ZMM_PO_MANAGES1",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/ObjectExtension.js"
+	},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ObjectPage.view.Details"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.ssuite.s2p.mm.pur.po.manage.st.s1/changes/",
+	"projectId": "customer.ZMM_PO_MANAGES1",
+	"creation": "2021-06-17T13:42:27.902Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.29",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.8",
+		"from": "7.0.8",
+		"to": "7.0.8"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
